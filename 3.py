@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv2.imread(r"C:\Users\user15\Desktop\FL\MVPR\lab cycle\image.jpg")
+image = cv2.imread(r"C:\Users\shalu\Desktop\codes\MVPR\image.jpg")
 
 if image is None:
     print("Error loading image")

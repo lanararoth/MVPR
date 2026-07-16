@@ -34,7 +34,7 @@ cv2.destroyAllWindows()
 
 # Load image from Dataset
 
-image = cv2.imread(r"C:\Users\user15\Desktop\FL\MVPR\lab cycle\image.jpg")
+image = cv2.imread(r"C:\Users\shalu\Desktop\codes\MVPR\image.jpg")
 
 # if image loaded properly oor not
 

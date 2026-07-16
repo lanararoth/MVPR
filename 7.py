@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load image in grayscale
-image = cv2.imread(r"C:\Users\user15\Desktop\FL\MVPR\lab cycle\grayscale.jpg")
+image = cv2.imread(r"C:\Users\shalu\Desktop\codes\MVPR\grayscale.jpg")
 
 if image is None:
     print("Error loading image")

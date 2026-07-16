@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load image in grayscale
-image = cv2.imread(r"C:\Users\user15\Desktop\FL\MVPR\lab cycle\grayscale.jpg", 0)
+image = cv2.imread(r"C:\Users\shalu\Desktop\codes\MVPR\grayscale.jpg", 0)
 
 if image is None:
     print("Error loading image")

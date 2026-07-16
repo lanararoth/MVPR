@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import time
 
 # Load image in grayscale
-image = cv2.imread(r"C:\Users\user15\Desktop\FL\MVPR\lab cycle\image.jpg", 0)
+image = cv2.imread(r"C:\Users\shalu\Desktop\codes\MVPR\image.jpg", 0)
 
 if image is None:
     print("Error loading image")
